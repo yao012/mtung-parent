@@ -1,0 +1,54 @@
+{
+  "groups": [
+    {
+      "name": "mtung.swagger",
+      "type": "com.top.mtung.core.swagger.SwaggerProperties",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mtung.swagger.authorization-header",
+      "type": "java.lang.String",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": "authorization"
+    },
+    {
+      "name": "mtung.swagger.base-package",
+      "type": "java.lang.String",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": "com.top.mtung"
+    },
+    {
+      "name": "mtung.swagger.enable-authorization",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": false
+    },
+    {
+      "name": "mtung.swagger.externally-configured-flag",
+      "type": "java.lang.Boolean",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "mtung.swagger.rewrite-path",
+      "type": "java.lang.String",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": ""
+    },
+    {
+      "name": "mtung.swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": "API"
+    },
+    {
+      "name": "mtung.swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.top.mtung.core.swagger.SwaggerProperties",
+      "defaultValue": "1.0"
+    }
+  ],
+  "hints": []
+}

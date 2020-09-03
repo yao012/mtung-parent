@@ -1,0 +1,9 @@
+
+9
+java:S1165"Make this "msg" field final.(­îøï8ÏÿãÎÄ.
+P
+java:S1948".Make "resultStatus" transient or serializable.(Ò½èêıÿÿÿÿ8Œ»æÎÄ.
+G
+java:S1165"%Make this "resultStatus" field final.(Ò½èêıÿÿÿÿ8Œ»æÎÄ.
+:
+java:S1165"Make this "code" field final.(²âèú8ÏÿãÎÄ.

@@ -1,0 +1,15 @@
+
+s
+java:S3252ª"PUse static access with "cn.hutool.core.date.CalendarUtil" for "parseByPatterns".(øƒ¶ùÿÿÿÿ8Ìı‘ëÄ.
+t
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 32 to the 15 allowed.(¤ñªœşÿÿÿÿ8óœãêÄ.
+N
+java:S3011J",This accessibility update should be removed.(ä…¤Çüÿÿÿÿ8óœãêÄ.
+N
+java:S3011t",This accessibility update should be removed.(ä…¤Çüÿÿÿÿ8óœãêÄ.
+t
+java:S3776_"RRefactor this method to reduce its Cognitive Complexity from 56 to the 15 allowed.(¼ù¬Úÿÿÿÿÿ8óœãêÄ.
+Z
+java:S3878x"8Remove this array creation and simply pass the elements.(´Ù‘ôıÿÿÿÿ8óœãêÄ.
+N
+java:S3011E",This accessibility update should be removed.(¹›òéûÿÿÿÿ8óœãêÄ.
